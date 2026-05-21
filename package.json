@@ -1,0 +1,14 @@
+{
+  "name": "node-devsecops-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js App for DevSecOps Pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "YourName",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
